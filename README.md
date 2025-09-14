@@ -2,7 +2,7 @@
 
 A full-stack platform that allows users to create **secure, time-locked digital capsules** containing text, images, and files. These capsules are stored safely and automatically released on scheduled dates with email notifications.  
 
-![Demo](screenshot.png) <!-- Optional: Add project screenshot here -->
+![Demo](https://digital-time-capsule-2-p69a.vercel.app/) <!-- Optional: Add project screenshot here -->
 
 ---
 
