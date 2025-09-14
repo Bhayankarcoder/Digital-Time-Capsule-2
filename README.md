@@ -1,3 +1,62 @@
+# ⏳ Digital Time Capsule  
+
+A full-stack platform that allows users to create **secure, time-locked digital capsules** containing text, images, and files. These capsules are stored safely and automatically released on scheduled dates with email notifications.  
+
+![Demo](screenshot.png) <!-- Optional: Add project screenshot here -->
+
+---
+
+## 🚀 Features  
+
+- **Time-Locked Capsules:** Store messages, memories, or files with a future release date.  
+- **Secure Storage:** Encrypted data storage with user authentication.  
+- **Real-Time Notifications:** Automated email reminders and release alerts.  
+- **Analytics Dashboard:** Track capsule creation trends and user engagement.  
+- **Full-Stack Deployment:** Seamless CI/CD pipeline with Vercel for hosting.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:** React.js, Vite  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Other Tools:** GitHub, Vercel, JWT Auth  
+
+---
+
+
+## 🤝 Contributing
+1. Fork the repo  
+2. Create a new branch: `git checkout -b feature-name`  
+3. Commit your changes: `git commit -m 'Add feature'`  
+4. Push the branch: `git push origin feature-name`  
+5. Create a Pull Request  
+
+---
+
+## 📬 Contact
+- **Author:** Ali Ahmad  
+- **Email:** aliahmeddav123@gmail.com  
+- **LinkedIn:** [Ali Ahmad](https://www.linkedin.com/in/ali-ahmad-35739128b/)  
+
+
+## 📦 Installation & Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/Digital-Time-Capsule.git
+cd Digital-Time-Capsule
+
+# Install dependencies
+npm install
+
+# Run development server
+npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
